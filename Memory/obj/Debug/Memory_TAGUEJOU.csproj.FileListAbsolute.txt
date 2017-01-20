@@ -1,0 +1,3 @@
+C:\Users\Christian TAGUEJOU\OneDrive\Documents\CSharp\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Christian TAGUEJOU\OneDrive\Documents\CSharp\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Christian TAGUEJOU\OneDrive\Documents\CSharp\Memory\Memory\obj\Debug\Memory.pdb
